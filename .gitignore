@@ -11,6 +11,9 @@ node_modules
 dist
 dist-ssr
 *.local
+.env
+.env.local
+.env.*.local
 
 # Editor directories and files
 .vscode/*
@@ -22,3 +25,18 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Project-specific folders
+.kiro
+
+# Development documentation (feature specs and notes)
+CITY_SEARCH_FEATURE.md
+LOCATION_MANUAL_ENTRY.md
+LOCATION_MANUAL_ENTRY_GUIDE.md
+NEXT_PRAYER_COUNTDOWN.md
+PRAYER_CARD_ENHANCEMENTS.md
+PRAYER_CARD_IMPLEMENTATION.md
+QIBLA_IMPROVEMENTS.md
+QIBLA_LIVE_COMPASS.md
+QIBLA_TROUBLESHOOTING.md
+design.md
