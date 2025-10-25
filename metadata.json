@@ -1,0 +1,7 @@
+{
+  "name": "Lunar Holy Days Calculator",
+  "description": "A high-precision calculator for determining lunar holy days (New Moon, First Quarter, Full Moon, Third Quarter) based on astronomical algorithms. It provides both UTC and Local Apparent Solar Time for any longitude, and offers AI-powered insights into lunar lore.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
